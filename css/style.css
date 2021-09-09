@@ -239,7 +239,7 @@ pointer-events: none;
     max-height: 800px;
     margin-top: 120px;
     overflow: hidden;
-
+position:relative;
   }
   .swiper-slide  > a {
       display: block;
